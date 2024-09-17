@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <!-- Circle background -->
+  <circle cx="256" cy="256" r="256" fill="#1DB954"/>
+  <!-- Text -->
+  <text x="50%" y="50%" text-anchor="middle" stroke="#000" stroke-width="1px" dy=".3em" fill="#ffffff" font-size="130" font-family="Arial, sans-serif">
+    Alcolify
+  </text>
+  
+  
+</svg>
